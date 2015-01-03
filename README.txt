@@ -3,4 +3,4 @@ https://www.hackerrank.com/challenges/ultimate-ttt
 
 A basic Monte Carlo algorithm that uses weighted wins/losses measure for decision making.
 Code is not polished, sorry for that :D
-Check the report for more details.
+Check the report for more details about the code.
