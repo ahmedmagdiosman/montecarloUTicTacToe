@@ -22,41 +22,7 @@ public class Solution {
 		}
 
 		MonteCarloTS (board, squareLocation , playerString.charAt(0));
-//		char [][] b = new char[9][9];
-//		for (int i=0; i <9;i++)
-//			for (int j=0; j<9;j++)
-//				b[i][j] = board[i].charAt(j);
-//		
-//		char [][] squareWinner = new char[3][3];
-//		for (int i=0; i <3;i++)
-//		{
-//			for (int j=0; j<3;j++)
-//			{
-//				int [] x = {i,j};
-//				squareWinner[i][j] = checkSquareWinner(b, x);
-//				System.out.print(squareWinner[i][j]);
-//			}
-//			System.out.println();
-//		}
-		
-//		System.out.println(checkGameWinner(squareWinner));
-//		int [] move = {1, 7};
-//		char[][] b1 = getBoardCopy(b);
-//		char[][] s1 = getSquareWinnerCopy(squareWinner);
-//		String[] r = simulateGame(move, squareLocation, b1, 'O', s1);
-//		System.out.println(r[0]+"+"+r[1]);
-//		int [] move2 = {1, 7};
-//		char[][] b2 = getBoardCopy(b);
-//		char[][] s2 = getSquareWinnerCopy(squareWinner);
-//		String[] r2 = simulateGame(move2, squareLocation, b2, 'O', s2);
-//			System.out.println(r2[0]+"+"+r2[1]);
-//			
-//			int [] move3 = {2, 6};
-//			char[][] b3 = getBoardCopy(b);
-//			char[][] s3 = getSquareWinnerCopy(squareWinner);
-//			String[] r3 = simulateGame(move3, squareLocation, b3, 'O', s3);
-//				System.out.println(r3[0]+"+"+r3[1]);
-//				
+
 		
 	}
 
